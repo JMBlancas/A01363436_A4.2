@@ -1,0 +1,6 @@
+************* Module source_p3
+source_p3.py:45:0: C0116: Missing function or method docstring (missing-function-docstring)
+source_p3.py:55:12: C0103: Variable name "total" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.70/10

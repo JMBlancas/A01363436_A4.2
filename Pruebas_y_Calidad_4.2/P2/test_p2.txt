@@ -1,0 +1,6 @@
+************* Module source_p2
+source_p2.py:59:0: C0116: Missing function or method docstring (missing-function-docstring)
+source_p2.py:78:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.95/10
